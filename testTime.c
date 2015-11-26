@@ -5,4 +5,5 @@ int main()
 	getTime(t);
 	printf("time : %s\n",t);
 	return 0;
+	return 0;
 }
