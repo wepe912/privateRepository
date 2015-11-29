@@ -12,4 +12,4 @@ ReadWriteFile.o:../FileRW/ReadWriteFile.c
 Time.o:../Time/Time.c
 	cc -c ../Time/Time.c
 clean:
-	rm testBroadCast $(objects)
+	rm testBroadCast mylog.log $(objects)
